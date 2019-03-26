@@ -1,17 +1,66 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a2e5848c-7be6-404e-a4a2-041cb1e7eae4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ab02/Aufgabe21.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ab02/Aufgabe22.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ab02/Aufgabe23.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ab02/Aufgabe24.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ab02/Aufgabe25.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ab02/Aufgabe26.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ab02/Aufgabe27.java" afterDir="false" />
+    <list default="true" id="c6d48cf7-e1bc-44af-9508-35eae0ca8b2b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/VO/GameOfLife.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ab02/Aufgabe28.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ab01/Aufgabe22.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ab01/Aufgabe22.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/UE/ab01/Aufgabe1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/UE/ab01/Aufgabe10.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/UE/ab01/Aufgabe11.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/UE/ab01/Aufgabe12.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/UE/ab01/Aufgabe13.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/UE/ab01/Aufgabe14.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/UE/ab01/Aufgabe15.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/UE/ab01/Aufgabe16.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/UE/ab01/Aufgabe17.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/UE/ab01/Aufgabe18.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/UE/ab01/Aufgabe19.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/UE/ab01/Aufgabe2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/UE/ab01/Aufgabe20.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/UE/ab01/Aufgabe21.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/UE/ab01/Aufgabe22.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/UE/ab01/Aufgabe23.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/UE/ab01/Aufgabe24.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/UE/ab01/Aufgabe25.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/UE/ab01/Aufgabe26.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/UE/ab01/Aufgabe27.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/UE/ab01/Aufgabe28.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/UE/ab01/Aufgabe29.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/UE/ab01/Aufgabe3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/UE/ab01/Aufgabe4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/UE/ab01/Aufgabe5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/UE/ab01/Aufgabe6.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/UE/ab01/Aufgabe7.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/UE/ab01/Aufgabe8.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/UE/ab01/Aufgabe9.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/UE/ab02/Aufgabe1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/UE/ab02/Aufgabe12.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/UE/ab02/Aufgabe13.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/UE/ab02/Aufgabe14.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/UE/ab02/Aufgabe15.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/UE/ab02/Aufgabe16.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/UE/ab02/Aufgabe17.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/UE/ab02/Aufgabe18.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/UE/ab02/Aufgabe19.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/UE/ab02/Aufgabe2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/UE/ab02/Aufgabe20.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/UE/ab02/Aufgabe21.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/UE/ab02/Aufgabe22.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/UE/ab02/Aufgabe23.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/UE/ab02/Aufgabe24.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/UE/ab02/Aufgabe25.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/UE/ab02/Aufgabe26.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/UE/ab02/Aufgabe27.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/UE/ab02/Aufgabe3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/UE/ab02/Aufgabe4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/UE/ab02/Aufgabe5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/UE/ab02/Aufgabe6.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/UE/ab02/Aufgabe7.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/UE/ab02/Aufgabe8.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/UE/ab02/Aufgabe9.class" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -21,70 +70,15 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ab01/Aufgabe22.java">
+        <entry file="file://$PROJECT_DIR$/src/VO/GameOfLife.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="17" column="26" selection-start-line="17" selection-start-column="26" selection-end-line="17" selection-end-column="26" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/ab02/Aufgabe27.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="22" column="1" lean-forward="true" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
+            <state relative-caret-position="431">
+              <caret line="57" column="49" selection-start-line="57" selection-start-column="49" selection-end-line="57" selection-end-column="49" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#42#73#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ab02/Aufgabe21.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" column="8" lean-forward="true" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="44" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ab02/Aufgabe22.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="12" column="38" selection-start-line="12" selection-start-column="38" selection-end-line="12" selection-end-column="38" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ab02/Aufgabe23.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" column="56" lean-forward="true" selection-start-line="6" selection-start-column="56" selection-end-line="6" selection-end-column="56" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ab02/Aufgabe24.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="20" lean-forward="true" selection-start-line="7" selection-start-column="20" selection-end-line="7" selection-end-column="20" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ab02/Aufgabe25.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="19" column="100" selection-start-line="19" selection-start-column="100" selection-end-line="19" selection-end-column="100" />
             </state>
           </provider>
         </entry>
@@ -92,29 +86,26 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/ab02/Aufgabe26.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="8" lean-forward="true" selection-start-line="7" selection-start-column="8" selection-end-line="12" selection-end-column="9" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="68">
+              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ab02/Aufgabe15.java">
+        <entry file="file://$PROJECT_DIR$/src/ab02/Aufgabe27.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+            <state relative-caret-position="306">
+              <caret line="20" column="43" lean-forward="true" selection-start-line="20" selection-start-column="43" selection-end-line="20" selection-end-column="43" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ab01/Aufgabe5.java">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/ab02/Aufgabe28.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            <state relative-caret-position="170">
+              <caret line="10" selection-start-line="10" selection-end-line="10" />
             </state>
           </provider>
         </entry>
@@ -134,14 +125,9 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/ab02/Aufgabe21.java" />
-        <option value="$PROJECT_DIR$/src/ab02/Aufgabe22.java" />
-        <option value="$PROJECT_DIR$/src/ab02/Aufgabe23.java" />
-        <option value="$PROJECT_DIR$/src/ab02/Aufgabe24.java" />
-        <option value="$PROJECT_DIR$/src/ab02/Aufgabe25.java" />
-        <option value="$PROJECT_DIR$/src/ab02/Aufgabe26.java" />
-        <option value="$PROJECT_DIR$/src/ab01/Aufgabe22.java" />
-        <option value="$PROJECT_DIR$/src/ab02/Aufgabe27.java" />
+        <option value="$PROJECT_DIR$/src/VO/GameOfLife2.java" />
+        <option value="$PROJECT_DIR$/src/VO/GameOfLife.java" />
+        <option value="$PROJECT_DIR$/src/ab02/Aufgabe28.java" />
       </list>
     </option>
   </component>
@@ -150,41 +136,40 @@
     <option name="width" value="974" />
     <option name="height" value="1057" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="Java" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Java" type="462c0819:PsiDirectoryNode" />
+              <item name="ESOP" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ESOP" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="Java" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Java" type="462c0819:PsiDirectoryNode" />
+              <item name="ESOP" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ESOP" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="Java" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Java" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="ab01" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Java" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Java" type="462c0819:PsiDirectoryNode" />
+              <item name="ESOP" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ESOP" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="ab02" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ESOP" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ESOP" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="VO" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
       <pane id="Scope" />
     </panes>
   </component>
@@ -207,16 +192,16 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Aufgabe27">
+  <component name="RunManager" selected="Application.Aufgabe28">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Aufgabe21" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ab02.Aufgabe21" />
-      <module name="UE" />
+    <configuration name="Aufgabe28" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ab02.Aufgabe28" />
+      <module name="ESOP" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
@@ -228,55 +213,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Aufgabe22 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ab02.Aufgabe22" />
-      <module name="UE" />
+    <configuration name="GameOfLife" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="VO.GameOfLife" />
+      <module name="ESOP" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ab02.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Aufgabe22" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ab01.Aufgabe22" />
-      <module name="UE" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ab01.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Aufgabe25" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ab02.Aufgabe25" />
-      <module name="UE" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ab02.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Aufgabe27" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ab02.Aufgabe27" />
-      <module name="UE" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ab02.*" />
+          <option name="PATTERN" value="VO.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -317,11 +260,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Aufgabe27" />
-        <item itemvalue="Application.Aufgabe22" />
-        <item itemvalue="Application.Aufgabe25" />
-        <item itemvalue="Application.Aufgabe22 (1)" />
-        <item itemvalue="Application.Aufgabe21" />
+        <item itemvalue="Application.Aufgabe28" />
+        <item itemvalue="Application.GameOfLife" />
       </list>
     </recent_temporary>
   </component>
@@ -330,137 +270,94 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="a2e5848c-7be6-404e-a4a2-041cb1e7eae4" name="Default Changelist" comment="" />
-      <created>1553180844801</created>
+      <changelist id="c6d48cf7-e1bc-44af-9508-35eae0ca8b2b" name="Default Changelist" comment="" />
+      <created>1553514709332</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1553180844801</updated>
-      <workItem from="1553180847207" duration="5052000" />
+      <updated>1553514709332</updated>
+      <workItem from="1553514720044" duration="4274000" />
+      <workItem from="1553603904433" duration="862000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5052000" />
+    <option name="totallyTimeSpent" value="5136000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="0" width="974" height="1057" extended-state="0" />
     <layout>
-      <window_info id="UI Designer" order="0" />
-      <window_info id="Favorites" order="1" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2560175" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="3" visible="true" weight="0.18161926" />
-      <window_info id="Structure" order="4" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Version Control" order="0" />
-      <window_info anchor="bottom" id="Database Changes" order="1" />
-      <window_info anchor="bottom" id="Terminal" order="2" />
-      <window_info anchor="bottom" id="Event Log" order="3" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="4" weight="0.32963374" />
-      <window_info anchor="bottom" id="Docker" order="5" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Message" order="6" />
-      <window_info anchor="bottom" id="Find" order="7" />
-      <window_info anchor="bottom" id="Run" order="8" weight="0.33296338" />
-      <window_info anchor="bottom" id="Debug" order="9" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="10" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="11" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="12" />
-      <window_info anchor="right" id="Database" order="0" />
-      <window_info anchor="right" id="Palette&#9;" order="1" />
-      <window_info anchor="right" id="Maven" order="2" />
+      <window_info id="UI Designer" order="3" />
+      <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32967034" />
+      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.39955604" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="11" />
+      <window_info anchor="bottom" id="Messages" order="12" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="right" id="Commander" order="4" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="5" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="6" weight="0.25" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="Maven" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ab02/Aufgabe28.java</url>
+          <line>10</line>
+          <properties />
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/ab02/Aufgabe20.java">
+    <entry file="file://$PROJECT_DIR$/src/VO/GameOfLife2.java" />
+    <entry file="file://$PROJECT_DIR$/src/VO/GameOfLife.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="8" lean-forward="true" selection-start-line="6" selection-start-column="8" selection-end-line="10" selection-end-column="66" />
+        <state relative-caret-position="431">
+          <caret line="57" column="49" selection-start-line="57" selection-start-column="49" selection-end-line="57" selection-end-column="49" />
           <folding>
-            <element signature="e#757#758#0" expanded="true" />
-            <element signature="e#817#818#0" expanded="true" />
+            <element signature="imports" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ab01/Aufgabe5.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ab02/Aufgabe21.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="8" lean-forward="true" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ab02/Aufgabe24.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="20" lean-forward="true" selection-start-line="7" selection-start-column="20" selection-end-line="7" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ab02/Aufgabe15.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ab02/Aufgabe25.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" column="100" selection-start-line="19" selection-start-column="100" selection-end-line="19" selection-end-column="100" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ab02/Aufgabe22.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="38" selection-start-line="12" selection-start-column="38" selection-end-line="12" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ab02/Aufgabe23.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="56" lean-forward="true" selection-start-line="6" selection-start-column="56" selection-end-line="6" selection-end-column="56" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/ab02/Aufgabe26.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="8" lean-forward="true" selection-start-line="7" selection-start-column="8" selection-end-line="12" selection-end-column="9" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ab01/Aufgabe22.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" column="26" selection-start-line="17" selection-start-column="26" selection-end-line="17" selection-end-column="26" />
+        <state relative-caret-position="68">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/ab02/Aufgabe27.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="22" column="1" lean-forward="true" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#42#73#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="306">
+          <caret line="20" column="43" lean-forward="true" selection-start-line="20" selection-start-column="43" selection-end-line="20" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ab02/Aufgabe28.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
         </state>
       </provider>
     </entry>
@@ -469,7 +366,7 @@
     <states>
       <state key="ProjectJDKs.UI">
         <settings>
-          <last-edited>1.8</last-edited>
+          <last-edited>11.0.2</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
