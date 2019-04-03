@@ -42,14 +42,14 @@ public class GameOfLife {
     }
 
     private static void printGen(int currentGen, boolean[][][] game) {
-        System.out.print("\033[H\033[2J");
-        System.out.flush();
+        System.out.print("#CLEAR");
         System.out.println("Gen " + currentGen);
         for(boolean[] row : game[0]) {
             for(boolean cell : row) {
                 System.out.print((cell) ? BLACK : WHITE);
             }
             System.out.println();
+
         }
     }
 
