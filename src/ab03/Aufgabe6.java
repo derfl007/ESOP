@@ -19,7 +19,7 @@ public class Aufgabe6 {
         return arr2;
     }
 
-    private static boolean teilt(int n, int m) {
+    static boolean teilt(int n, int m) {
         return n % m == 0;
     }
 }
