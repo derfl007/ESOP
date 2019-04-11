@@ -1,6 +1,6 @@
 package ab01;
 
-public class Aufgabe1 {
+public class Aufgabe01 {
     public static void main(String[] args) {
         String str = "ESOP ist super";
 

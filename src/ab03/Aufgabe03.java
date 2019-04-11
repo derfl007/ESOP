@@ -1,6 +1,6 @@
 package ab03;
 
-public class Aufgabe3 {
+public class Aufgabe03 {
     public static void main(String[] args) {
         System.out.println(m1(3));
     }

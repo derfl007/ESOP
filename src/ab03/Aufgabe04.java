@@ -1,6 +1,6 @@
 package ab03;
 
-public class Aufgabe4 {
+public class Aufgabe04 {
     public static void main(String[] args) {
         int x = 0;
         add(x);

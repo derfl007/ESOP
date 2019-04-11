@@ -5,7 +5,7 @@ public class Aufgabe13 {
         printMatrix(new int[][] {{0,0,0}, {0,0,0}});
     }
 
-    private static void printMatrix(int[][] matrix) {
+    static void printMatrix(int[][] matrix) {
         for (int[] matrix1 : matrix) {
             for (int i : matrix1) {
                 System.out.print(i);

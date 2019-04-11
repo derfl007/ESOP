@@ -2,7 +2,7 @@ package ab03;
 
 import java.util.Arrays;
 
-public class Aufgabe6 {
+public class Aufgabe06 {
     public static void main(String[] args) {
         int[] array1 = { 1, 2, 3, 4, 5 };
         int a = 3;

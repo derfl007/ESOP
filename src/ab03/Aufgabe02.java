@@ -1,6 +1,6 @@
 package ab03;
 
-public class Aufgabe2 {
+public class Aufgabe02 {
     public static void main(String[] args) {
         int result = addition(1, 2, 3);
         System.out.println(result);

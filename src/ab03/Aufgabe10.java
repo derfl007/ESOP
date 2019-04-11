@@ -3,7 +3,7 @@ package ab03;
 import java.util.ArrayList;
 import java.util.List;
 
-import static ab03.Aufgabe6.teilt;
+import static ab03.Aufgabe06.teilt;
 
 public class Aufgabe10 {
     public static void main(String[] args) {

@@ -8,7 +8,7 @@ public class Aufgabe12 {
         System.out.println(Arrays.toString(readNumbers(3)));
     }
 
-    private static int[] readNumbers(int n) {
+    static int[] readNumbers(int n) {
         Scanner scanner = new Scanner(System.in);
         int[] r = new int[n];
         for (int i = 0; i < n; i++) {

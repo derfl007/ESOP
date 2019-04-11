@@ -1,6 +1,6 @@
 package ab01;
 
-public class Aufgabe4 {
+public class Aufgabe04 {
     public static void main(String[] args) {
         byte a = 32;
         float b = 6.24f;

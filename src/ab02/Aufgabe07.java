@@ -2,7 +2,7 @@ package ab02;
 
 import java.util.Scanner;
 
-public class Aufgabe7 {
+public class Aufgabe07 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         System.out.println("n:");
@@ -18,6 +18,7 @@ public class Aufgabe7 {
             i++;
         } while(i < n);
         float avg = sum / n;
-        System.out.println(avg);
+        System.out.println("Sum: "+sum);
+        System.out.println("Average: "+avg);
     }
 }

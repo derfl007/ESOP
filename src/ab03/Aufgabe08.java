@@ -2,9 +2,9 @@ package ab03;
 
 import java.util.Scanner;
 
-import static ab03.Aufgabe6.teilt;
+import static ab03.Aufgabe06.teilt;
 
-public class Aufgabe8 {
+public class Aufgabe08 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         int n = scanner.nextInt();

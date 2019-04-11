@@ -1,6 +1,6 @@
 package ab01;
 
-public class Aufgabe8 {
+public class Aufgabe08 {
     public static void main(String[] args) {
         int a = 16;
         int b = 5;

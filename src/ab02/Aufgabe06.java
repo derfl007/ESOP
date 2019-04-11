@@ -1,15 +1,14 @@
-package ab03;
+package ab02;
 
 import java.util.Scanner;
 
-import static ab03.Aufgabe8.isPrime;
-
-public class Aufgabe9 {
+public class Aufgabe06 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
+        int a = scanner.nextInt();
         int n = scanner.nextInt();
-        for(int i = 0; i < n; i++) {
-            if(isPrime(i)) System.out.println(i);
+        for(int i = (a+n); i >= a; i--) {
+            System.out.println(i);
         }
     }
 }

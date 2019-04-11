@@ -1,6 +1,6 @@
 package ab02;
 
-public class Aufgabe1 {
+public class Aufgabe01 {
     public static void main(String[] args) {
         for(int i = 5; i <=8; i++) {
             System.out.println(i+ " ");

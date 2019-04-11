@@ -2,7 +2,7 @@ package ab02;
 
 import java.util.Scanner;
 
-public class Aufgabe8 {
+public class Aufgabe08 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         int x = scanner.nextInt();
