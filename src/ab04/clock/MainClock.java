@@ -1,7 +1,4 @@
-package clock;
-
-import ab04.clock.ChainedCounter;
-import ab04.clock.ClockView;
+package ab04.clock;
 
 import javax.swing.*;
 

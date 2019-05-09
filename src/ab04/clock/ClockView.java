@@ -1,7 +1,5 @@
 package ab04.clock;
 
-import ab04.clock.ChainedCounter;
-
 import javax.swing.*;
 import java.awt.*;
 import java.awt.event.ActionEvent;
