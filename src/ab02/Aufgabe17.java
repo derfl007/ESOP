@@ -7,18 +7,17 @@ import java.util.Scanner;
 public class Aufgabe17 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
-        ArrayList<Integer> a = new ArrayList<>();
         int x;
+        int pos = 0;
+        int neg = 0;
         do {
             x = scanner.nextInt();
-            a.add(x);
+            if(x > 0) {
+                pos++;
+            } else if(x < 0) {
+                neg++;
+            }
         } while (x != 0);
-        ArrayList<Integer> pos = new ArrayList<>();
-        ArrayList<Integer> neg = new ArrayList<>();
-        for(int i : a) {
-            if(i >= 0) pos.add(i);
-            else neg.add(i);
-        }
         System.out.println("Positive numbers: " + pos + ", negative numbers: " + neg);
     }
 }

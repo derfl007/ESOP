@@ -3,7 +3,7 @@ package ab04.clock;
 import ab04.counter.Counter;
 
 /**
- * A counter which value is bounded. When its value reaches a specified bound, the value is automatically reset to 0
+ * A counter whose value is bounded. When its value reaches a specified bound, the value is automatically reset to 0
  * and the count() method of its chained counter is invoked.
  *
  * @author ESOP Team 2019

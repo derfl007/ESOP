@@ -1,84 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="BookmarkManager">
-    <bookmark url="file://$PROJECT_DIR$/src/ab04/Aufgabe04.java" line="12" />
-  </component>
   <component name="ChangeListManager">
     <list default="true" id="a2e5848c-7be6-404e-a4a2-041cb1e7eae4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/ab04/Aufgabe20.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ab04/counter/CounterTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ab05/Aufgabe01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ab05/Aufgabe02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ab05/Aufgabe03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ab05/Aufgabe04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ab05/Aufgabe05.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ab05/Aufgabe06.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ab05/Aufgabe07.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ab05/Aufgabe08.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ab05/Aufgabe09.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ab05/Aufgabe10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ab05/Aufgabe11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ab05/Aufgabe12.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ab05/Aufgabe13.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ab05/Aufgabe14.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ab05/Aufgabe15.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ESOP/VO/GameOfLife.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ESOP/VO/GameOfLife.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ESOP/ab01/Aufgabe1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ESOP/ab01/Aufgabe10.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ESOP/ab01/Aufgabe10.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ESOP/ab01/Aufgabe11.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ESOP/ab01/Aufgabe11.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ESOP/ab01/Aufgabe12.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ESOP/ab01/Aufgabe12.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ESOP/ab01/Aufgabe13.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ESOP/ab01/Aufgabe13.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ESOP/ab01/Aufgabe14.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ESOP/ab01/Aufgabe14.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ESOP/ab01/Aufgabe15.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ESOP/ab01/Aufgabe15.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ESOP/ab01/Aufgabe16.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ESOP/ab01/Aufgabe16.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ESOP/ab01/Aufgabe17.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ESOP/ab01/Aufgabe17.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ESOP/ab01/Aufgabe18.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ESOP/ab01/Aufgabe18.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ESOP/ab01/Aufgabe19.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ESOP/ab01/Aufgabe19.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ESOP/ab01/Aufgabe2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ESOP/ab01/Aufgabe20.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ESOP/ab01/Aufgabe20.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ESOP/ab01/Aufgabe21.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ESOP/ab01/Aufgabe21.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ESOP/ab01/Aufgabe22.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ESOP/ab01/Aufgabe22.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ESOP/ab01/Aufgabe23.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ESOP/ab01/Aufgabe23.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ESOP/ab01/Aufgabe24.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ESOP/ab01/Aufgabe24.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ESOP/ab01/Aufgabe25.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ESOP/ab01/Aufgabe25.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ESOP/ab01/Aufgabe26.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ESOP/ab01/Aufgabe26.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ESOP/ab01/Aufgabe27.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ESOP/ab01/Aufgabe27.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ESOP/ab01/Aufgabe28.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ESOP/ab01/Aufgabe28.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ESOP/ab01/Aufgabe29.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ESOP/ab01/Aufgabe29.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ESOP/ab01/Aufgabe3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ESOP/ab01/Aufgabe4.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ESOP/ab01/Aufgabe5.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ESOP/ab01/Aufgabe6.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ESOP/ab01/Aufgabe7.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ESOP/ab01/Aufgabe8.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ESOP/ab01/Aufgabe9.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ESOP/ab02/Aufgabe1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ESOP/ab02/Aufgabe12.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ESOP/ab02/Aufgabe12.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ESOP/ab02/Aufgabe13.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ESOP/ab02/Aufgabe13.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ESOP/ab02/Aufgabe14.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ESOP/ab02/Aufgabe14.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ESOP/ab02/Aufgabe15.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ESOP/ab02/Aufgabe15.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ESOP/ab02/Aufgabe16.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ESOP/ab02/Aufgabe16.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/ESOP/ab02/Aufgabe17.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ESOP/ab02/Aufgabe17.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ESOP/ab02/Aufgabe18.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ESOP/ab02/Aufgabe18.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ESOP/ab02/Aufgabe19.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ESOP/ab02/Aufgabe19.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ESOP/ab02/Aufgabe2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ESOP/ab02/Aufgabe20.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ESOP/ab02/Aufgabe20.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ESOP/ab02/Aufgabe21.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ESOP/ab02/Aufgabe21.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ESOP/ab02/Aufgabe22.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ESOP/ab02/Aufgabe22.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ESOP/ab02/Aufgabe23.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ESOP/ab02/Aufgabe23.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ESOP/ab02/Aufgabe24.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ESOP/ab02/Aufgabe24.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ESOP/ab02/Aufgabe25.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ESOP/ab02/Aufgabe25.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ESOP/ab02/Aufgabe26.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ESOP/ab02/Aufgabe26.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ESOP/ab02/Aufgabe27.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ESOP/ab02/Aufgabe27.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ESOP/ab02/Aufgabe28.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ESOP/ab02/Aufgabe28.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ESOP/ab02/Aufgabe29.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ESOP/ab02/Aufgabe29.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ESOP/ab02/Aufgabe3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ESOP/ab02/Aufgabe30.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ESOP/ab02/Aufgabe30.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ESOP/ab02/Aufgabe31.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ESOP/ab02/Aufgabe31.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ESOP/ab02/Aufgabe32.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ESOP/ab02/Aufgabe32.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ESOP/ab02/Aufgabe33.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ESOP/ab02/Aufgabe33.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ESOP/ab02/Aufgabe34.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ESOP/ab02/Aufgabe34.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ESOP/ab02/Aufgabe4.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ESOP/ab02/Aufgabe5.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ESOP/ab02/Aufgabe6.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ESOP/ab02/Aufgabe7.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ESOP/ab02/Aufgabe8.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ESOP/ab02/Aufgabe9.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ESOP/ab03/Aufgabe1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ESOP/ab03/Aufgabe2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ESOP/ab03/Aufgabe3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ESOP/ab03/Aufgabe4.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ESOP/ab03/Aufgabe5.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ESOP/ab03/Aufgabe6.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ESOP/ab03/Aufgabe7.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ab02/Aufgabe17.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ab02/Aufgabe17.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ab04/clock/ChainedCounter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ab04/clock/ChainedCounter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ab04/clock/ClockView.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ab04/clock/ClockView.java" afterDir="false" />
     </list>
-    <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -88,115 +32,6 @@
   <component name="DefaultGradleProjectSettings">
     <option name="isMigrated" value="true" />
   </component>
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ab04/Aufgabe19.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="527">
-              <caret line="33" column="43" selection-start-line="33" selection-start-column="43" selection-end-line="33" selection-end-column="43" />
-              <folding>
-                <element signature="e#823#824#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ab04/counter/Counter.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="546">
-              <caret line="40" column="8" lean-forward="true" selection-start-line="40" selection-start-column="8" selection-end-line="44" selection-end-column="9" />
-              <folding>
-                <element signature="e#763#764#0" expanded="true" />
-                <element signature="e#793#794#0" expanded="true" />
-                <element signature="e#822#823#0" expanded="true" />
-                <element signature="e#850#851#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ab04/counter/CounterPanel.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ab04/counter/CounterView.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="166">
-              <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ab04/clock/ChainedCounter.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="16" column="28" selection-start-line="16" selection-start-column="28" selection-end-line="16" selection-end-column="28" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ab04/clock/CounterClockPanel.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="16" lean-forward="true" selection-start-column="16" selection-end-column="16" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ab04/clock/ClockView.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="15" selection-start-column="15" selection-end-column="15" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ab04/counter/CounterTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/ab04/clock/MainClock.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="284">
-              <caret line="30" column="42" lean-forward="true" selection-start-line="30" selection-start-column="42" selection-end-line="30" selection-end-column="42" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ab04/Aufgabe09.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" column="8" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="8" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
-  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
@@ -204,183 +39,33 @@
       </list>
     </option>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>ab04.CinemaHall</find>
+      <find>Aufgabe13</find>
+      <find>9</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>CinemaHall</replace>
+      <replace>A13</replace>
+      <replace>8</replace>
+    </replaceStrings>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/src/VO/StoppWatch.java" />
-        <option value="$PROJECT_DIR$/src/ab02/Aufgabe5.java" />
-        <option value="$PROJECT_DIR$/src/ab02/Aufgabe7.java" />
-        <option value="$PROJECT_DIR$/src/ab02/Aufgabe09.java" />
-        <option value="$PROJECT_DIR$/src/ab03/Aufgabe19.java" />
-        <option value="$PROJECT_DIR$/src/ab03/Aufgabe20.java" />
-        <option value="$PROJECT_DIR$/src/ab03/Aufgabe21.java" />
-        <option value="$PROJECT_DIR$/src/ab03/Aufgabe22.java" />
-        <option value="$PROJECT_DIR$/src/ab03/Aufgabe23.java" />
-        <option value="$PROJECT_DIR$/src/VO/UE.java" />
-        <option value="$PROJECT_DIR$/src/ab03/Aufgabe24.java" />
-        <option value="$PROJECT_DIR$/src/ab03/Aufgabe25.java" />
-        <option value="$PROJECT_DIR$/src/ab03/Aufgabe26.java" />
-        <option value="$PROJECT_DIR$/src/ab03/Aufgabe27.java" />
-        <option value="$PROJECT_DIR$/src/ab03/Aufgabe28.java" />
-        <option value="$PROJECT_DIR$/src/ab03/Aufgabe29.java" />
-        <option value="$PROJECT_DIR$/src/ab04/Aufgabe02.java" />
-        <option value="$PROJECT_DIR$/src/ab04/Aufgabe01.java" />
-        <option value="$PROJECT_DIR$/src/ab04/Aufgabe03.java" />
-        <option value="$PROJECT_DIR$/src/ab04/Aufgabe04.java" />
-        <option value="$PROJECT_DIR$/src/ab04/Aufgabe05.java" />
-        <option value="$PROJECT_DIR$/src/ab04/Aufgabe06.java" />
-        <option value="$PROJECT_DIR$/src/ab04/Aufgabe09.java" />
-        <option value="$PROJECT_DIR$/src/ab04/Person5.java" />
-        <option value="$PROJECT_DIR$/src/ab04/Person.java" />
-        <option value="$PROJECT_DIR$/src/ab04/Person2.java" />
-        <option value="$PROJECT_DIR$/src/ab04/Aufgabe08.java" />
-        <option value="$PROJECT_DIR$/src/ab04/Aufgabe07.java" />
-        <option value="$PROJECT_DIR$/src/ab04/Aufgabe10.java" />
-        <option value="$PROJECT_DIR$/src/ab04/Person3.java" />
-        <option value="$PROJECT_DIR$/src/ab04/Person4.java" />
-        <option value="$PROJECT_DIR$/src/ab04/Person6.java" />
-        <option value="$PROJECT_DIR$/src/ab04/Aufgabe12.java" />
-        <option value="$PROJECT_DIR$/src/ab04/Aufgabe11.java" />
-        <option value="$PROJECT_DIR$/src/ab04/CashRegister.java" />
-        <option value="$PROJECT_DIR$/src/ab04/Aufgabe13.java" />
-        <option value="$PROJECT_DIR$/src/ab04/Aufgabe14.java" />
-        <option value="$PROJECT_DIR$/src/ab04/Aufgabe16.java" />
-        <option value="$PROJECT_DIR$/src/ab04/Aufgabe17.java" />
-        <option value="$PROJECT_DIR$/src/ab04/Aufgabe18.java" />
-        <option value="$PROJECT_DIR$/src/ab04/Aufgabe19.java" />
-        <option value="$PROJECT_DIR$/src/ab04/counter/CounterPanel.java" />
-        <option value="$PROJECT_DIR$/src/ab04/counter/CounterView.java" />
-        <option value="$PROJECT_DIR$/src/ab04/counter/CounterTets.java" />
-        <option value="$PROJECT_DIR$/src/ab04/counter/Counter.java" />
-        <option value="$PROJECT_DIR$/src/ab04/counter/Main.java" />
-        <option value="$PROJECT_DIR$/src/ab04/clock/CounterClockPanel.java" />
-        <option value="$PROJECT_DIR$/src/ab04/clock/ClockView.java" />
-        <option value="$PROJECT_DIR$/src/ab04/clock/ChainedCounter.java" />
-        <option value="$PROJECT_DIR$/src/ab04/counter/CounterTest.java" />
-        <option value="$PROJECT_DIR$/src/ab04/clock/MainClock.java" />
-      </list>
-    </option>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-7" />
+    <option name="width" value="974" />
+    <option name="height" value="1057" />
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
-    <option name="width" value="976" />
-    <option name="height" value="1066" />
-  </component>
+  <component name="ProjectId" id="1NCPxzUmcqNDUJMBC1hzZoT32LE" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
-    <panes>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="ESOP" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ESOP" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ESOP" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ESOP" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ESOP" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ESOP" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="ab01" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ESOP" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ESOP" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="ab02" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ESOP" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ESOP" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="ab03" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ESOP" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ESOP" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="ab04" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ESOP" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ESOP" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="ab04" type="462c0819:PsiDirectoryNode" />
-              <item name="clock" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ESOP" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ESOP" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="ab04" type="462c0819:PsiDirectoryNode" />
-              <item name="counter" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ESOP" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ESOP" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="ab04" type="462c0819:PsiDirectoryNode" />
-              <item name="Aufgabe09.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
-            </path>
-            <path>
-              <item name="ESOP" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ESOP" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="ab04" type="462c0819:PsiDirectoryNode" />
-              <item name="Aufgabe10.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
-            </path>
-            <path>
-              <item name="ESOP" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ESOP" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="ab04" type="462c0819:PsiDirectoryNode" />
-              <item name="Aufgabe11.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
-            </path>
-            <path>
-              <item name="ESOP" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ESOP" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="ab04" type="462c0819:PsiDirectoryNode" />
-              <item name="Aufgabe12.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
-            </path>
-            <path>
-              <item name="ESOP" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ESOP" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="ab04" type="462c0819:PsiDirectoryNode" />
-              <item name="Aufgabe13.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
-            </path>
-            <path>
-              <item name="ESOP" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ESOP" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="ab04" type="462c0819:PsiDirectoryNode" />
-              <item name="Aufgabe14.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
-            </path>
-            <path>
-              <item name="ESOP" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ESOP" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="VO" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
-    </panes>
+    <panes />
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
@@ -408,13 +93,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.MainClock">
-    <configuration name="Aufgabe18" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ab04.Aufgabe18" />
+  <component name="RunManager" selected="Application.Aufgabe15">
+    <configuration name="Aufgabe02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ab05.Aufgabe02" />
       <module name="ESOP" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ab04.*" />
+          <option name="PATTERN" value="ab05.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -422,12 +107,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Aufgabe19" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ab04.Aufgabe19" />
+    <configuration name="Aufgabe10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ab05.Aufgabe10" />
       <module name="ESOP" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ab04.*" />
+          <option name="PATTERN" value="ab05.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -435,12 +120,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CounterTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ab04.counter.CounterTest" />
+    <configuration name="Aufgabe12" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ab05.Aufgabe12" />
       <module name="ESOP" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ab04.counter.*" />
+          <option name="PATTERN" value="ab05.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -448,12 +133,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ab04.counter.Main" />
+    <configuration name="Aufgabe14" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ab05.Aufgabe14" />
       <module name="ESOP" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ab04.counter.*" />
+          <option name="PATTERN" value="ab05.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -461,13 +146,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MainClock" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="clock.MainClock" />
+    <configuration name="Aufgabe15" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ab05.Aufgabe15" />
       <module name="ESOP" />
-      <option name="PROGRAM_PARAMETERS" value="23 59 58" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="clock.*" />
+          <option name="PATTERN" value="ab05.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -476,19 +160,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Aufgabe18" />
-      <item itemvalue="Application.Aufgabe19" />
-      <item itemvalue="Application.CounterTest" />
-      <item itemvalue="Application.Main" />
-      <item itemvalue="Application.MainClock" />
+      <item itemvalue="Application.Aufgabe02" />
+      <item itemvalue="Application.Aufgabe10" />
+      <item itemvalue="Application.Aufgabe12" />
+      <item itemvalue="Application.Aufgabe14" />
+      <item itemvalue="Application.Aufgabe15" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.MainClock" />
-        <item itemvalue="Application.CounterTest" />
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.Aufgabe19" />
-        <item itemvalue="Application.Aufgabe18" />
+        <item itemvalue="Application.Aufgabe15" />
+        <item itemvalue="Application.Aufgabe14" />
+        <item itemvalue="Application.Aufgabe12" />
+        <item itemvalue="Application.Aufgabe02" />
+        <item itemvalue="Application.Aufgabe10" />
       </list>
     </recent_temporary>
   </component>
@@ -514,7 +198,18 @@
       <workItem from="1556800066208" duration="7201000" />
       <workItem from="1556810303663" duration="756000" />
       <workItem from="1556896956384" duration="399000" />
-      <workItem from="1557412407610" duration="1208000" />
+      <workItem from="1557412407610" duration="1476000" />
+      <workItem from="1557580286182" duration="590000" />
+      <workItem from="1557741875622" duration="769000" />
+      <workItem from="1558014784399" duration="12719000" />
+      <workItem from="1558446540049" duration="948000" />
+      <workItem from="1558613631365" duration="9807000" />
+      <workItem from="1559040764428" duration="135000" />
+      <workItem from="1559041147966" duration="191000" />
+      <workItem from="1559041475984" duration="3611000" />
+      <workItem from="1559556251877" duration="3138000" />
+      <workItem from="1561582380464" duration="20000" />
+      <workItem from="1561801613566" duration="265000" />
     </task>
     <task id="LOCAL-00001" summary="fix project">
       <created>1553870279691</created>
@@ -530,471 +225,101 @@
       <option name="project" value="LOCAL" />
       <updated>1554986570495</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="added remaining files for ab04">
+      <created>1557413717999</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1557413717999</updated>
+    </task>
+    <task id="LOCAL-00004" summary="fixed aufgabe21">
+      <created>1557413841731</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1557413841731</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="60143000" />
+    <option name="totallyTimeSpent" value="265000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="976" height="1066" extended-state="0" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2128821" />
+      <window_info id="Image Layers" />
+      <window_info id="Designer" />
+      <window_info id="UI Designer" />
+      <window_info id="Capture Tool" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.25" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Image Layers" order="2" />
-      <window_info id="Designer" order="3" />
-      <window_info id="UI Designer" order="4" />
-      <window_info id="Capture Tool" order="5" />
-      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.23043944" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4025974" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" weight="0.32822758" />
-      <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" />
-      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="12" weight="0.3290461" />
-      <window_info anchor="bottom" id="Tail" order="13" />
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Maven" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="Database" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="right" id="Theme Preview" order="4" />
-      <window_info anchor="right" id="Maven" order="5" />
-      <window_info anchor="right" id="Capture Analysis" order="6" />
-      <window_info anchor="right" id="Palette&#9;" order="7" />
-      <window_info anchor="right" id="Database" order="8" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="User">
+          <value>
+            <list />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="fix project" />
     <MESSAGE value="changed file names for better ordering&#10;added more files" />
-    <option name="LAST_COMMIT_MESSAGE" value="changed file names for better ordering&#10;added more files" />
-  </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/ab03/Aufgabe17.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="18" column="58" selection-start-line="18" selection-start-column="58" selection-end-line="18" selection-end-column="58" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ab03/Aufgabe10.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
-          <caret line="19" column="5" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ab03/Aufgabe12.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="10" column="4" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="4" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ab03/Aufgabe13.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="4" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="4" />
-          <folding>
-            <element signature="e#83#84#0" expanded="true" />
-            <element signature="e#142#143#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/VO/StoppWatch.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="587">
-          <caret line="76" selection-start-line="76" selection-end-line="76" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ab03/Aufgabe05.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ab02/Aufgabe05.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="22" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ab02/Aufgabe06.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ab03/Aufgabe20.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="24" selection-start-line="9" selection-start-column="24" selection-end-line="9" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/VO/UE.java" />
-    <entry file="file://$PROJECT_DIR$/src/ab02/Aufgabe07.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="24" selection-start-line="24" selection-end-line="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ab02/Aufgabe08.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" selection-start-line="14" selection-end-line="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ab02/Aufgabe09.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ab03/Aufgabe18.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="629">
-          <caret line="38" column="1" selection-start-line="38" selection-start-column="1" selection-end-line="38" selection-end-column="1" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ab03/Aufgabe19.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" selection-start-line="16" selection-end-line="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ab03/Aufgabe21.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" selection-start-line="19" selection-end-line="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ab03/Aufgabe22.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" selection-start-line="12" selection-end-line="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ab03/Aufgabe23.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="1" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ab03/Aufgabe24.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="21" column="18" selection-start-line="21" selection-start-column="18" selection-end-line="21" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ab03/Aufgabe25.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" column="1" lean-forward="true" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk-11.0.2/lib/src.zip!/java.base/java/util/function/IntPredicate.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="201">
-          <caret line="49" column="12" selection-start-line="49" selection-start-column="12" selection-end-line="49" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ab04/Aufgabe01.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="29" selection-start-line="10" selection-start-column="29" selection-end-line="10" selection-end-column="51" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ab04/Aufgabe05.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="419">
-          <caret line="31" column="46" lean-forward="true" selection-start-line="31" selection-start-column="46" selection-end-line="31" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ab03/Aufgabe26.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="1" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ab03/Aufgabe27.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="493">
-          <caret line="29" column="13" selection-start-line="29" selection-start-column="13" selection-end-line="29" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ab03/Aufgabe28.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="544">
-          <caret line="32" selection-start-line="32" selection-end-line="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ab04/Aufgabe02.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="4" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="4" />
-          <folding>
-            <element signature="e#160#161#0" expanded="true" />
-            <element signature="e#184#185#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ab04/Aufgabe03.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" column="17" selection-start-line="17" selection-start-column="17" selection-end-line="17" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ab04/Aufgabe04.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="13" column="52" selection-start-line="13" selection-start-column="52" selection-end-line="13" selection-end-column="52" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ab04/Aufgabe06.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="50" selection-start-line="8" selection-start-column="50" selection-end-line="8" selection-end-column="50" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ab03/Aufgabe29.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="9" selection-start-line="14" selection-start-column="9" selection-end-line="14" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ab04/Aufgabe13.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="1" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#537#538#0" expanded="true" />
-            <element signature="e#564#565#0" expanded="true" />
-            <element signature="e#782#783#0" expanded="true" />
-            <element signature="e#808#809#0" expanded="true" />
-            <element signature="e#1126#1127#0" expanded="true" />
-            <element signature="e#1202#1203#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ab04/Aufgabe10.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="5" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ab04/Aufgabe11.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="5" column="15" selection-start-line="5" selection-start-column="15" selection-end-line="5" selection-end-column="15" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#811#812#0" expanded="true" />
-            <element signature="e#838#839#0" expanded="true" />
-            <element signature="e#1057#1058#0" expanded="true" />
-            <element signature="e#1083#1084#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ab04/Aufgabe12.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="17" column="22" selection-start-line="17" selection-start-column="22" selection-end-line="17" selection-end-column="22" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ab04/Aufgabe15.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="561">
-          <caret line="35" column="1" selection-start-line="35" selection-start-column="1" selection-end-line="35" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ab04/Aufgabe14.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="765">
-          <caret line="49" column="5" selection-start-line="49" selection-start-column="5" selection-end-line="49" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ab04/Aufgabe16.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" column="25" selection-start-line="18" selection-start-column="25" selection-end-line="18" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ab04/Aufgabe17.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="27" selection-start-line="27" selection-end-line="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ab04/Aufgabe18.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="833">
-          <caret line="51" column="52" selection-start-line="51" selection-start-column="52" selection-end-line="51" selection-end-column="52" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ab04/Aufgabe19.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="527">
-          <caret line="33" column="43" selection-start-line="33" selection-start-column="43" selection-end-line="33" selection-end-column="43" />
-          <folding>
-            <element signature="e#823#824#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ab04/counter/CounterPanel.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ab04/Aufgabe09.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="8" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ab04/counter/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="45" selection-start-line="12" selection-start-column="45" selection-end-line="12" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ab04/counter/CounterView.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="166">
-          <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ab04/counter/Counter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="546">
-          <caret line="40" column="8" lean-forward="true" selection-start-line="40" selection-start-column="8" selection-end-line="44" selection-end-column="9" />
-          <folding>
-            <element signature="e#763#764#0" expanded="true" />
-            <element signature="e#793#794#0" expanded="true" />
-            <element signature="e#822#823#0" expanded="true" />
-            <element signature="e#850#851#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ab04/clock/CounterClockPanel.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="16" lean-forward="true" selection-start-column="16" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ab04/clock/ClockView.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="15" selection-start-column="15" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ab04/clock/ChainedCounter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="28" selection-start-line="16" selection-start-column="28" selection-end-line="16" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ab04/counter/CounterTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ab04/clock/MainClock.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="284">
-          <caret line="30" column="42" lean-forward="true" selection-start-line="30" selection-start-column="42" selection-end-line="30" selection-end-column="42" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <MESSAGE value="added remaining files for ab04" />
+    <MESSAGE value="fixed aufgabe21" />
+    <option name="LAST_COMMIT_MESSAGE" value="fixed aufgabe21" />
   </component>
   <component name="masterDetails">
     <states>

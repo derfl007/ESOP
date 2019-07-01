@@ -2,8 +2,6 @@ package ab04.clock;
 
 import javax.swing.*;
 import java.awt.*;
-import java.awt.event.ActionEvent;
-import java.awt.event.ActionListener;
 
 
 /**
@@ -49,11 +47,7 @@ public class ClockView extends JPanel {
         add(mins,BorderLayout.CENTER);
         add(secs,BorderLayout.EAST);
 
-        timer = new Timer(1000,new ActionListener(){
-            public void actionPerformed(ActionEvent e) {
-                updateClock();
-            }
-        });
+        timer = new Timer(1000, e -> updateClock());
         timer.start();
     }
 
